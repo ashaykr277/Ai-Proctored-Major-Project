@@ -1,0 +1,6 @@
+opencv-python
+opencv-contrib-python
+dlib
+numpy
+face_recognition # Optional, if using face_recognition library
+pillow          # For image handling
